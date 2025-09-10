@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 
 const Book = ({ book }) => {
-    const rating=4;
+    // const rating=4;
 
     // <FontAwesomeIcon icon="star" />
     // <FontAwesomeIcon icon="star" />
