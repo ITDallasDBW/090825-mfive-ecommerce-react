@@ -8,11 +8,11 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="row row__column">
-          <Link to="/">
+          <a href="/">
             <figure className="footer__logo">
               <img src={Logo} alt="" className="footer__logo--img" />
             </figure>
-          </Link>
+          </a>
           <div className="footer__list">
             <Link to="/" className="footer__link">Home</Link>
             <Link to="/" className="footer__link no-cursor">About</Link>
